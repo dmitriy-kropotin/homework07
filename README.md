@@ -22,5 +22,12 @@
 <img width="1029" alt="Снимок экрана 2022-04-09 в 15 01 46" src="https://user-images.githubusercontent.com/98701086/162573323-21c63afe-cad9-4e63-9057-c91ab4849b07.png">
 
 файл error-vm.log
-<img width="1061" alt="Снимок экрана 2022-04-09 в 15 04 33" src="https://user-images.githubusercontent.com/98701086/162573425-b49c76c8-9341-400f-8b47-956640199fb0.png">
+<img width="1075" alt="Снимок экрана 2022-04-09 в 15 09 10" src="https://user-images.githubusercontent.com/98701086/162573570-8795d7a3-97ed-435c-bbf8-71c871f14324.png">
+
+Теперь посчитаю сколько строчек считать из файлов для анализа информации. И запишу с чего начать в следующий раз
+<img width="731" alt="Снимок экрана 2022-04-09 в 15 10 24" src="https://user-images.githubusercontent.com/98701086/162573612-3814095d-7d00-46ec-b3af-4662bc0394e8.png">
+
+Далее сам анализ информации и формирование результата
+<img width="1252" alt="Снимок экрана 2022-04-09 в 15 15 41" src="https://user-images.githubusercontent.com/98701086/162573788-3ff044cd-7a5e-4730-aea4-4ffee614116f.png">
+
 
