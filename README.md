@@ -13,3 +13,14 @@
   
 Начну скрипт с проверки на количество и корректность параметров запуска.
 <img width="482" alt="Снимок экрана 2022-04-09 в 14 48 46" src="https://user-images.githubusercontent.com/98701086/162572817-5a6fbefb-1341-44d1-869a-db9f8ef389c3.png">
+
+Затем защита от мультизапуска
+<img width="793" alt="Снимок экрана 2022-04-09 в 14 53 26" src="https://user-images.githubusercontent.com/98701086/162572994-06dcbda4-1bf0-4ec9-a6aa-b647d45e6d44.png">
+
+Теперь надо найти номер строки, с которой будем анализировать файлы (либо первая строка, либо строка с момента прошлого запуска)
+файл access-vm.log
+<img width="1029" alt="Снимок экрана 2022-04-09 в 15 01 46" src="https://user-images.githubusercontent.com/98701086/162573323-21c63afe-cad9-4e63-9057-c91ab4849b07.png">
+
+файл error-vm.log
+<img width="1061" alt="Снимок экрана 2022-04-09 в 15 04 33" src="https://user-images.githubusercontent.com/98701086/162573425-b49c76c8-9341-400f-8b47-956640199fb0.png">
+
