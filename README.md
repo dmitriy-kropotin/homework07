@@ -30,4 +30,8 @@
 Далее сам анализ информации и формирование результата
 <img width="1252" alt="Снимок экрана 2022-04-09 в 15 15 41" src="https://user-images.githubusercontent.com/98701086/162573788-3ff044cd-7a5e-4730-aea4-4ffee614116f.png">
 
+Удаляю файл блокировки и возвращаю результат выполнения
+<img width="242" alt="Снимок экрана 2022-04-09 в 15 18 01" src="https://user-images.githubusercontent.com/98701086/162573842-32a1e2be-7cb2-4860-b8aa-a406c73bc365.png">
+
+
 
